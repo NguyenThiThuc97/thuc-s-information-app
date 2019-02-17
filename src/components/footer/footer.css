@@ -1,0 +1,19 @@
+.footer{
+    background-color: black;
+    /* background-image: url("https://www.freewebheaders.com/wordpress/wp-content/gallery/computer/amazing-keyboard-information-technology-web-header.jpg"); */
+    background-repeat: no-repeat;
+    /* background-size:100% 100%; */
+    color: #fff;
+    height: 100px
+}
+.footer-mr{
+    margin: 20px 30px
+}
+.img-logo{
+    width: 30px;
+    border-radius: 10%
+}
+.logo li {
+    display: inline;
+    margin: 10px
+}
